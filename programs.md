@@ -6,5 +6,5 @@
 * ghostty (+ setup a reasonable font size / dark theme)
 
 # os x
-keepingyouawake
-rectangle
+* keepingyouawake
+* rectangle
